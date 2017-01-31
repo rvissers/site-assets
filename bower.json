@@ -1,0 +1,13 @@
+{
+  "name": "bower-test",
+  "authors": [
+    "Tim Goudriaan <tim@codedmonkey.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+  }
+}
