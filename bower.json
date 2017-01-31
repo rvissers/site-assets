@@ -1,13 +1,9 @@
 {
-  "name": "bower-test",
-  "authors": [
-    "Tim Goudriaan <tim@codedmonkey.com>"
-  ],
-  "description": "",
-  "main": "",
-  "license": "MIT",
-  "homepage": "",
+  "name": "site-assets",
+  "license": "proprietary",
   "private": true,
   "dependencies": {
+    "jquery": "^3.1",
+    "bootstrap": "^3.3"
   }
 }
