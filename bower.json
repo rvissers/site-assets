@@ -2,8 +2,16 @@
   "name": "site-assets",
   "license": "proprietary",
   "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
   "dependencies": {
     "jquery": "^3.1",
-    "bootstrap": "^3.3"
+    "bootstrap": "^3.3",
+    "susy": "~2.2.6",
+    "normalize-css": "~3.0.3",
+    "svgxuse": "^1.1.16",
   }
 }
