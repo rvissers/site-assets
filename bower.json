@@ -12,6 +12,6 @@
     "bootstrap": "^3.3",
     "susy": "~2.2.6",
     "normalize-css": "~3.0.3",
-    "svgxuse": "^1.1.16",
+    "svgxuse": "^1.1.16"
   }
 }
